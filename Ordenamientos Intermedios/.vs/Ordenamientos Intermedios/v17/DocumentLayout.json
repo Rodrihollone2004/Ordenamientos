@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mis proyectos de Unity\\Ordenamientos Intermedios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5B07A8-5E30-52B4-01E4-8FF2F8C644BB}|Assembly-CSharp.csproj|D:\\Mis proyectos de Unity\\Ordenamientos Intermedios\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5B07A8-5E30-52B4-01E4-8FF2F8C644BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5B07A8-5E30-52B4-01E4-8FF2F8C644BB}|Assembly-CSharp.csproj|d:\\mis proyectos de unity\\ordenamientos intermedios\\assets\\scripts\\highscoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5B07A8-5E30-52B4-01E4-8FF2F8C644BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\highscoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HighScoreManager.cs",
+              "DocumentMoniker": "D:\\Mis proyectos de Unity\\Ordenamientos Intermedios\\Assets\\Scripts\\HighScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HighScoreManager.cs",
+              "ToolTip": "D:\\Mis proyectos de Unity\\Ordenamientos Intermedios\\Assets\\Scripts\\HighScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HighScoreManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:26:42.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Mis proyectos de Unity\\Ordenamientos Intermedios\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Mis proyectos de Unity\\Ordenamientos Intermedios\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:23:01.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
