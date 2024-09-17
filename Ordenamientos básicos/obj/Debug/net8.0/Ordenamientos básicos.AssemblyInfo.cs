@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ordenamientos básicos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cfe290ace0c67b2fbac97cd01fab7766269c424")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a548c8eb6e7618ef49d7e7d5084f62c5cfc86928")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ordenamientos básicos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ordenamientos básicos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
