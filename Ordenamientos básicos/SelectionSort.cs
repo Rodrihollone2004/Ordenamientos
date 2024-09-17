@@ -1,4 +1,6 @@
 ﻿
+using System.Diagnostics;
+
 public class SelectionSort
 {
     public int totalStepsSS;
@@ -9,8 +11,13 @@ public class SelectionSort
         int[] firstArray = [5, 1, 4, 3, 2];
         int[] secondArray = [1, 2, 12, 6, 3, 4, 9, 11, 5, 8, 7, 10, 13, 15, 14];
 
+        Stopwatch stopwatch = new Stopwatch();
+        stopwatch.Start();
+
         Console.WriteLine("\n------ Selection Sort ------");
-        finalArray = CompareSS(secondArray); //Se cambia el array el cual se quiere comparar pasandolo como parámetro de la función
+        finalArray = CompareSS(secondArray); //Change the array to compare
+
+        stopwatch.Stop();
 
         string output = "";
         for (int i = 0; i < finalArray.Length; i++)
@@ -18,6 +25,9 @@ public class SelectionSort
             output += finalArray[i] + ", ";
         }
         Console.WriteLine($"\nFinal array: {output}");
+
+        long elapsedTicks = stopwatch.ElapsedTicks;
+        Console.WriteLine($"\nElapsed time: {elapsedTicks} ticks");
     }
 
     private int[] CompareSS(int[] array)
