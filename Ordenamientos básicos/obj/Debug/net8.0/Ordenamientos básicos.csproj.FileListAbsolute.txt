@@ -1,0 +1,15 @@
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\bin\Debug\net8.0\Ordenamientos básicos.exe
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\bin\Debug\net8.0\Ordenamientos básicos.deps.json
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\bin\Debug\net8.0\Ordenamientos básicos.runtimeconfig.json
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\bin\Debug\net8.0\Ordenamientos básicos.dll
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\bin\Debug\net8.0\Ordenamientos básicos.pdb
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\obj\Debug\net8.0\Ordenamientos básicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\obj\Debug\net8.0\Ordenamientos básicos.AssemblyInfoInputs.cache
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\obj\Debug\net8.0\Ordenamientos básicos.AssemblyInfo.cs
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\obj\Debug\net8.0\Ordenamientos básicos.csproj.CoreCompileInputs.cache
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\obj\Debug\net8.0\Ordenamientos básicos.sourcelink.json
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\obj\Debug\net8.0\Ordenamientos básicos.dll
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\obj\Debug\net8.0\refint\Ordenamientos básicos.dll
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\obj\Debug\net8.0\Ordenamientos básicos.pdb
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\obj\Debug\net8.0\Ordenamientos básicos.genruntimeconfig.cache
+D:\Estructura de datos\Ordenamientos\Ordenamientos básicos\obj\Debug\net8.0\ref\Ordenamientos básicos.dll
